@@ -1,0 +1,62 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Cabin:wght@500&family=Hind+Madurai:wght@600;700&display=swap');
+
+header {
+  font-family: 'Cabin', sans-serif;
+  padding: 200px 150px 600px;
+
+}
+
+.github {
+  text-decoration: none;
+  color: #495464;
+}
+
+.github:hover{
+  color: #bbbfca;
+}
+
+.aboutme {
+  font-family: 'Cabin', sans-serif;
+  padding: 0 150px 50px;
+}
+
+.aboutme h2 {
+  padding-bottom: 50px;
+}
+
+.projects {
+  margin: 10px 0 10px;
+  padding: 50px 150px 50px;
+  background-color: #F4F6F6;
+  font-family: 'Cabin', sans-serif;
+}
+
+
+.contact {
+  margin: 10px 0 10px;
+  padding: 30px 0 30px;
+  text-align: center;
+  font-family: 'Cabin', sans-serif;
+}
+
+.skills {
+  text-align: left;
+  font-family: 'Cabin', sans-serif;
+  padding-bottom: 100px;
+}
+
+.column {
+  float: left;
+  padding-right: 20px;
+  display: inline-block;
+}
+
+.row {
+}
+
+.profile_pic {
+  width: 250px;
+}
+
+
